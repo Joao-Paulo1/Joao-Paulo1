@@ -55,10 +55,6 @@ Em 12 anos de experiência e aprendizado profissional na área de logística com
     <img aling="center" alt="swagger" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
  </div><br/>
 
- <div>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"/>  
-</div>
   
   ### Minhas Redes 🤝 
    
