@@ -42,7 +42,6 @@ Em 12 anos de experiência e aprendizado profissional na área de logística com
 <div style="display: inline_block"><br/>
     <img aling="center" alt="junit" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img aling="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-    <img aling="center" alt="cucumber" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white">
  </div><br/>
 
   
