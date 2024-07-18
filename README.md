@@ -3,7 +3,7 @@
 
 💁🏻‍♀️ **Sobre mim**
 
-Em 12 anos de experiência e aprendizado profissional na área de logística como conferente, sei a importância de um bom trabalho em equipe,sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa., desde criança sempre fui apaixonado por tecnologia e logo por indicação me surgiu a oportunidade de cursar análise de sistemas aonde me apaixonei e enxerguei que realmente essa é a minha área, estou me esforçando, estudando e buscando novos conhecimentos em busca de oportunidades em uma empresa para ganhar experiencias e crescer como um profissional!
+Tenho paixão por resolver problemas complexos e transformar ideias em soluções tecnológicas eficientes. Acredito no poder da colaboração e na importância de um bom trabalho em equipe para alcançar resultados excepcionais. Meu objetivo é continuar crescendo na área de tecnologia, contribuindo para o sucesso das empresas e impactando positivamente a vida das pessoas através da tecnologia.
 
 ### 🚀 Skills
 
